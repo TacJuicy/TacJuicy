@@ -6,7 +6,6 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2023<br>
 📚 I'm currently learning GenAI-powered security tooling and LLM-based threat detection<br>
 🎯 Goals: build intelligent, scalable systems at the intersection of security and ML<br>
 🎲 Fun fact: I organized a national-level CTF and helped run ACM India's Industry Day as PICT Cybercell Chairman
