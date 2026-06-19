@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MangalamMisra16&show_icons=true&locale=en&layout=compact" alt="MangalamMisra16" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TacJuicy&show_icons=true&locale=en&layout=compact" alt="TacJuicy" /></p>
 
 
 <h2 align="left">Let's connect</h2>
